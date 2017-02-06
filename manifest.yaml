@@ -1,0 +1,9 @@
+package:
+  name: integration-demo
+  version: 1.0
+  license: Apache-2.0
+  actions:
+    hello:
+      version: 1.0
+      location: src/app.js
+      runtime: nodejs@6
